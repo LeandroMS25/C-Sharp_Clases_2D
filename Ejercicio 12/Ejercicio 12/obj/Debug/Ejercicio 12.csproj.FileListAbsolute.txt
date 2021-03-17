@@ -1,0 +1,10 @@
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 12\Ejercicio 12\bin\Debug\Ejercicio 12.exe.config
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 12\Ejercicio 12\bin\Debug\Ejercicio 12.exe
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 12\Ejercicio 12\bin\Debug\Ejercicio 12.pdb
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 12\Ejercicio 12\bin\Debug\ClassLibrary1.dll
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 12\Ejercicio 12\bin\Debug\ClassLibrary1.pdb
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 12\Ejercicio 12\obj\Debug\Ejercicio 12.csprojAssemblyReference.cache
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 12\Ejercicio 12\obj\Debug\Ejercicio 12.csproj.CoreCompileInputs.cache
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 12\Ejercicio 12\obj\Debug\Ejercicio 12.csproj.CopyComplete
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 12\Ejercicio 12\obj\Debug\Ejercicio 12.exe
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 12\Ejercicio 12\obj\Debug\Ejercicio 12.pdb
