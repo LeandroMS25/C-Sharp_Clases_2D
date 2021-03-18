@@ -1,0 +1,10 @@
+C:\Users\Creditia\Desktop\Labo 2\Ejercicio 14\Ejercicio 14\bin\Debug\Ejercicio 14.exe.config
+C:\Users\Creditia\Desktop\Labo 2\Ejercicio 14\Ejercicio 14\bin\Debug\Ejercicio 14.exe
+C:\Users\Creditia\Desktop\Labo 2\Ejercicio 14\Ejercicio 14\bin\Debug\Ejercicio 14.pdb
+C:\Users\Creditia\Desktop\Labo 2\Ejercicio 14\Ejercicio 14\bin\Debug\ClassLibrary1.dll
+C:\Users\Creditia\Desktop\Labo 2\Ejercicio 14\Ejercicio 14\bin\Debug\ClassLibrary1.pdb
+C:\Users\Creditia\Desktop\Labo 2\Ejercicio 14\Ejercicio 14\obj\Debug\Ejercicio 14.csprojAssemblyReference.cache
+C:\Users\Creditia\Desktop\Labo 2\Ejercicio 14\Ejercicio 14\obj\Debug\Ejercicio 14.csproj.CoreCompileInputs.cache
+C:\Users\Creditia\Desktop\Labo 2\Ejercicio 14\Ejercicio 14\obj\Debug\Ejercicio 14.csproj.CopyComplete
+C:\Users\Creditia\Desktop\Labo 2\Ejercicio 14\Ejercicio 14\obj\Debug\Ejercicio 14.exe
+C:\Users\Creditia\Desktop\Labo 2\Ejercicio 14\Ejercicio 14\obj\Debug\Ejercicio 14.pdb
