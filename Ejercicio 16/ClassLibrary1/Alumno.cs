@@ -36,11 +36,13 @@ namespace ClassLibrary1
             }
             return stringBuilder.ToString();
         }
+
         public void Estudiar(byte notaUno, byte notaDos) 
         {
             this.nota1 = notaUno;
             this.nota2 = notaDos;
         }
+
         public void CalcularFinal()
         {
             if (this.nota1 >= 4 && this.nota2 >= 4)
