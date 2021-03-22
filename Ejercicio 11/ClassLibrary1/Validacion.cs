@@ -17,12 +17,14 @@ namespace ClassLibrary1
         /// <returns></returns>
         public static bool Validar(int valor, int min, int max) 
         {
-            bool resultado = false;
-            if (valor > min && valor < max) 
+            if (valor > min && valor < max)
             {
-                resultado = true;
+                return true;
             }
-            return resultado;
+            else 
+            {
+                return false;
+            }
         }
     }
 }

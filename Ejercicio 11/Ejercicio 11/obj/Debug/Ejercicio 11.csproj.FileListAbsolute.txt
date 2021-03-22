@@ -8,3 +8,13 @@ C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Eje
 C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 11\Ejercicio 11\obj\Debug\Ejercicio 11.csproj.CopyComplete
 C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 11\Ejercicio 11\obj\Debug\Ejercicio 11.exe
 C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 11\Ejercicio 11\obj\Debug\Ejercicio 11.pdb
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\Ejercicio 11\Ejercicio 11\bin\Debug\Ejercicio 11.exe.config
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\Ejercicio 11\Ejercicio 11\bin\Debug\Ejercicio 11.exe
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\Ejercicio 11\Ejercicio 11\bin\Debug\Ejercicio 11.pdb
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\Ejercicio 11\Ejercicio 11\bin\Debug\ClassLibrary1.dll
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\Ejercicio 11\Ejercicio 11\bin\Debug\ClassLibrary1.pdb
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\Ejercicio 11\Ejercicio 11\obj\Debug\Ejercicio 11.csprojAssemblyReference.cache
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\Ejercicio 11\Ejercicio 11\obj\Debug\Ejercicio 11.csproj.CoreCompileInputs.cache
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\Ejercicio 11\Ejercicio 11\obj\Debug\Ejercicio 11.csproj.CopyComplete
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\Ejercicio 11\Ejercicio 11\obj\Debug\Ejercicio 11.exe
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\Ejercicio 11\Ejercicio 11\obj\Debug\Ejercicio 11.pdb
