@@ -1,0 +1,7 @@
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csprojAssemblyReference.cache
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb

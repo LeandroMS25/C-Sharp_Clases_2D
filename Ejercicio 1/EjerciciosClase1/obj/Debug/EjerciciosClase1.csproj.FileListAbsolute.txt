@@ -1,7 +1,0 @@
-C:\Users\leito\source\repos\Ejercicio1\EjerciciosClase1\bin\Debug\EjerciciosClase1.exe.config
-C:\Users\leito\source\repos\Ejercicio1\EjerciciosClase1\bin\Debug\EjerciciosClase1.exe
-C:\Users\leito\source\repos\Ejercicio1\EjerciciosClase1\bin\Debug\EjerciciosClase1.pdb
-C:\Users\leito\source\repos\Ejercicio1\EjerciciosClase1\obj\Debug\EjerciciosClase1.csprojAssemblyReference.cache
-C:\Users\leito\source\repos\Ejercicio1\EjerciciosClase1\obj\Debug\EjerciciosClase1.csproj.CoreCompileInputs.cache
-C:\Users\leito\source\repos\Ejercicio1\EjerciciosClase1\obj\Debug\EjerciciosClase1.exe
-C:\Users\leito\source\repos\Ejercicio1\EjerciciosClase1\obj\Debug\EjerciciosClase1.pdb
