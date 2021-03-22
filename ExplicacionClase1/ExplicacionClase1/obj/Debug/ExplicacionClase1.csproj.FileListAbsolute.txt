@@ -1,0 +1,7 @@
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\ExplicacionClase1\ExplicacionClase1\bin\Debug\ExplicacionClase1.exe.config
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\ExplicacionClase1\ExplicacionClase1\bin\Debug\ExplicacionClase1.exe
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\ExplicacionClase1\ExplicacionClase1\bin\Debug\ExplicacionClase1.pdb
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\ExplicacionClase1\ExplicacionClase1\obj\Debug\ExplicacionClase1.csprojAssemblyReference.cache
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\ExplicacionClase1\ExplicacionClase1\obj\Debug\ExplicacionClase1.csproj.CoreCompileInputs.cache
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\ExplicacionClase1\ExplicacionClase1\obj\Debug\ExplicacionClase1.exe
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\ExplicacionClase1\ExplicacionClase1\obj\Debug\ExplicacionClase1.pdb
