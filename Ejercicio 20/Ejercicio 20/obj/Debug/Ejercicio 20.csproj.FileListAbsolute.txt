@@ -1,0 +1,10 @@
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 20\Ejercicio 20\bin\Debug\Ejercicio 20.exe.config
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 20\Ejercicio 20\bin\Debug\Ejercicio 20.exe
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 20\Ejercicio 20\bin\Debug\Ejercicio 20.pdb
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 20\Ejercicio 20\bin\Debug\Bilbioteca.dll
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 20\Ejercicio 20\bin\Debug\Bilbioteca.pdb
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 20\Ejercicio 20\obj\Debug\Ejercicio 20.csprojAssemblyReference.cache
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 20\Ejercicio 20\obj\Debug\Ejercicio 20.csproj.CoreCompileInputs.cache
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 20\Ejercicio 20\obj\Debug\Ejercicio 20.csproj.CopyComplete
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 20\Ejercicio 20\obj\Debug\Ejercicio 20.exe
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 20\Ejercicio 20\obj\Debug\Ejercicio 20.pdb

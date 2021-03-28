@@ -4,3 +4,9 @@ C:\Users\Creditia\Desktop\Labo 2\Ejercicio 16\ClassLibrary1\obj\Debug\ClassLibra
 C:\Users\Creditia\Desktop\Labo 2\Ejercicio 16\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
 C:\Users\Creditia\Desktop\Labo 2\Ejercicio 16\ClassLibrary1\obj\Debug\ClassLibrary1.dll
 C:\Users\Creditia\Desktop\Labo 2\Ejercicio 16\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 16\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 16\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 16\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 16\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 16\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 16\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

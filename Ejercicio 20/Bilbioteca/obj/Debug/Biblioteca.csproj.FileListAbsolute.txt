@@ -1,0 +1,6 @@
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 20\Bilbioteca\bin\Debug\Bilbioteca.dll
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 20\Bilbioteca\bin\Debug\Bilbioteca.pdb
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 20\Bilbioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 20\Bilbioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 20\Bilbioteca\obj\Debug\Bilbioteca.dll
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 20\Bilbioteca\obj\Debug\Bilbioteca.pdb
