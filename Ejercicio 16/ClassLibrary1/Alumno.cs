@@ -14,25 +14,27 @@ namespace ClassLibrary1
         public string name;
         public string lastName;
         public int legajo;
+
         public Alumno(string name,string lastName, int legajo) 
         {
             this.name = name;
             this.lastName = lastName;
             this.legajo = legajo;
         }
+
         public string Mostrar()
         {
             StringBuilder stringBuilder = new StringBuilder();
-            stringBuilder.Append($"Nombre: {this.name}");
-            stringBuilder.Append($"Apellido: {this.lastName}");
-            stringBuilder.Append($"Legajo: {this.legajo}");
+            stringBuilder.AppendLine($"Nombre: {this.name}");
+            stringBuilder.AppendLine($"Apellido: {this.lastName}");
+            stringBuilder.AppendLine($"Legajo: {this.legajo}");
             if (this.notaFinal != -1)
             {
-                stringBuilder.Append($"Nota Final: {this.notaFinal}");
+                stringBuilder.AppendLine($"Nota Final: {this.notaFinal}");
             }
             else
             {
-                stringBuilder.Append("Alumno desaprobado.");
+                stringBuilder.AppendLine("Alumno desaprobado.");
             }
             return stringBuilder.ToString();
         }
@@ -51,7 +53,7 @@ namespace ClassLibrary1
                 Random rdm = new Random();
                 this.notaFinal = rdm.Next(4,10);
                 */
-                this.notaFinal = (float)(this.nota1 + this.nota2) / (float)2;
+                this.notaFinal = (this.nota1 + this.nota2) / (float)2;
             }
             else
             {

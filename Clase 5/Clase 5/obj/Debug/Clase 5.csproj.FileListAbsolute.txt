@@ -1,0 +1,10 @@
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Clase 5\Clase 5\bin\Debug\Clase 5.exe.config
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Clase 5\Clase 5\bin\Debug\Clase 5.exe
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Clase 5\Clase 5\bin\Debug\Clase 5.pdb
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Clase 5\Clase 5\obj\Debug\Clase 5.csprojAssemblyReference.cache
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Clase 5\Clase 5\obj\Debug\Clase_5.Properties.Resources.resources
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Clase 5\Clase 5\obj\Debug\Clase 5.csproj.GenerateResource.cache
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Clase 5\Clase 5\obj\Debug\Clase 5.csproj.CoreCompileInputs.cache
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Clase 5\Clase 5\obj\Debug\Clase 5.exe
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Clase 5\Clase 5\obj\Debug\Clase 5.pdb
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Clase 5\Clase 5\obj\Debug\Clase_5.Clase_5.resources
