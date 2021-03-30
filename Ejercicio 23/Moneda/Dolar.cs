@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Biblioteca
+namespace Moneda
 {
     public class Dolar
     {
@@ -35,8 +35,12 @@ namespace Biblioteca
         {
             return Dolar.cotizRespectoDolar;
         }
+        public static void SetCotizacion(double cotizacion)
+        {
+            Dolar.cotizRespectoDolar = cotizacion;
+        }
 
-        public static explicit operator Euro(Dolar d) 
+        public static explicit operator Euro(Dolar d)
         {
             return new Euro(d.cantidad * Euro.GetCotizacion());
         }
@@ -46,12 +50,12 @@ namespace Biblioteca
             return new Pesos(d.cantidad * Pesos.GetCotizacion());
         }
 
-        public static implicit operator Dolar(double d) 
+        public static implicit operator Dolar(double d)
         {
             return new Dolar(d);
         }
 
-        public static Dolar operator +(Dolar d, Pesos p) 
+        public static Dolar operator +(Dolar d, Pesos p)
         {
             return new Dolar(d.cantidad + ((Dolar)p).GetCantidad());
         }

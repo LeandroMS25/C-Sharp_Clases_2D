@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Biblioteca
+namespace Moneda
 {
     public class Pesos
     {
         private double cantidad;
         private static double cotizRespectoDolar;
-        static Pesos() 
+        static Pesos()
         {
             cotizRespectoDolar = 50;
         }
@@ -21,7 +21,7 @@ namespace Biblioteca
         }
 
         public Pesos(double cantidad, double cotizacion)
-            :this(cantidad)
+            : this(cantidad)
         {
             Pesos.cotizRespectoDolar = cotizacion;
         }
@@ -34,6 +34,10 @@ namespace Biblioteca
         public static double GetCotizacion()
         {
             return Pesos.cotizRespectoDolar;
+        }
+        public static void SetCotizacion(double cotizacion)
+        {
+            Pesos.cotizRespectoDolar = cotizacion;
         }
 
         public static explicit operator Dolar(Pesos p)

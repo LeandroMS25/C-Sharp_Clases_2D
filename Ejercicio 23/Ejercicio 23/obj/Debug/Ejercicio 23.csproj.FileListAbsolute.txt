@@ -1,0 +1,13 @@
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\Ejercicio 23\Ejercicio 23\bin\Debug\Ejercicio 23.exe.config
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\Ejercicio 23\Ejercicio 23\bin\Debug\Ejercicio 23.exe
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\Ejercicio 23\Ejercicio 23\bin\Debug\Ejercicio 23.pdb
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\Ejercicio 23\Ejercicio 23\obj\Debug\Ejercicio 23.csprojAssemblyReference.cache
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\Ejercicio 23\Ejercicio 23\obj\Debug\Ejercicio_23.Conversor.resources
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\Ejercicio 23\Ejercicio 23\obj\Debug\Ejercicio_23.Properties.Resources.resources
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\Ejercicio 23\Ejercicio 23\obj\Debug\Ejercicio 23.csproj.GenerateResource.cache
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\Ejercicio 23\Ejercicio 23\obj\Debug\Ejercicio 23.csproj.CoreCompileInputs.cache
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\Ejercicio 23\Ejercicio 23\obj\Debug\Ejercicio 23.exe
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\Ejercicio 23\Ejercicio 23\obj\Debug\Ejercicio 23.pdb
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\Ejercicio 23\Ejercicio 23\bin\Debug\Moneda.dll
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\Ejercicio 23\Ejercicio 23\bin\Debug\Moneda.pdb
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\Ejercicio 23\Ejercicio 23\obj\Debug\Ejercicio 23.csproj.CopyComplete
