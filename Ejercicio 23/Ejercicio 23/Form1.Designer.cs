@@ -58,6 +58,8 @@ namespace Ejercicio_23
             this.btnLockCotizacion = new System.Windows.Forms.Button();
             this.lblCotizacion = new System.Windows.Forms.Label();
             this.imageList = new System.Windows.Forms.ImageList(this.components);
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // lblDolar
@@ -129,6 +131,7 @@ namespace Ejercicio_23
             this.btnConvertDolar.TabIndex = 7;
             this.btnConvertDolar.Text = "->";
             this.btnConvertDolar.UseVisualStyleBackColor = true;
+            this.btnConvertDolar.Click += new System.EventHandler(this.btnConvertDolar_Click);
             // 
             // btnConvertPeso
             // 
@@ -138,6 +141,7 @@ namespace Ejercicio_23
             this.btnConvertPeso.TabIndex = 8;
             this.btnConvertPeso.Text = "->";
             this.btnConvertPeso.UseVisualStyleBackColor = true;
+            this.btnConvertPeso.Click += new System.EventHandler(this.btnConvertPeso_Click);
             // 
             // txtEuroAEuro
             // 
@@ -243,38 +247,40 @@ namespace Ejercicio_23
             // 
             // txtCotizacionPeso
             // 
+            this.txtCotizacionPeso.Enabled = false;
             this.txtCotizacionPeso.Location = new System.Drawing.Point(529, 23);
             this.txtCotizacionPeso.Name = "txtCotizacionPeso";
-            this.txtCotizacionPeso.ReadOnly = true;
             this.txtCotizacionPeso.Size = new System.Drawing.Size(100, 20);
             this.txtCotizacionPeso.TabIndex = 21;
             // 
             // txtCotizacionDolar
             // 
+            this.txtCotizacionDolar.Enabled = false;
             this.txtCotizacionDolar.Location = new System.Drawing.Point(423, 23);
             this.txtCotizacionDolar.Name = "txtCotizacionDolar";
-            this.txtCotizacionDolar.ReadOnly = true;
             this.txtCotizacionDolar.Size = new System.Drawing.Size(100, 20);
             this.txtCotizacionDolar.TabIndex = 22;
             // 
             // txtCotizacionEuro
             // 
+            this.txtCotizacionEuro.Enabled = false;
             this.txtCotizacionEuro.Location = new System.Drawing.Point(317, 23);
             this.txtCotizacionEuro.Name = "txtCotizacionEuro";
-            this.txtCotizacionEuro.ReadOnly = true;
             this.txtCotizacionEuro.Size = new System.Drawing.Size(100, 20);
             this.txtCotizacionEuro.TabIndex = 23;
             // 
             // btnLockCotizacion
             // 
             this.btnLockCotizacion.BackColor = System.Drawing.SystemColors.Control;
-            this.btnLockCotizacion.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnLockCotizacion.BackgroundImage")));
             this.btnLockCotizacion.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.btnLockCotizacion.ImageIndex = 0;
+            this.btnLockCotizacion.ImageList = this.imageList;
             this.btnLockCotizacion.Location = new System.Drawing.Point(222, 21);
             this.btnLockCotizacion.Name = "btnLockCotizacion";
             this.btnLockCotizacion.Size = new System.Drawing.Size(75, 23);
             this.btnLockCotizacion.TabIndex = 24;
             this.btnLockCotizacion.UseVisualStyleBackColor = false;
+            this.btnLockCotizacion.Click += new System.EventHandler(this.btnLockCotizacion_Click);
             // 
             // lblCotizacion
             // 
@@ -290,13 +296,25 @@ namespace Ejercicio_23
             // 
             this.imageList.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("imageList.ImageStream")));
             this.imageList.TransparentColor = System.Drawing.Color.Transparent;
-            this.imageList.Images.SetKeyName(0, "padlock-vector-icon-png_262163.jpg");
+            this.imageList.Images.SetKeyName(0, "45486.png");
+            this.imageList.Images.SetKeyName(1, "61355.png");
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.BackgroundImage")));
+            this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pictureBox1.Location = new System.Drawing.Point(21, 9);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(102, 46);
+            this.pictureBox1.TabIndex = 26;
+            this.pictureBox1.TabStop = false;
             // 
             // Conversor
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(682, 178);
+            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.lblCotizacion);
             this.Controls.Add(this.btnLockCotizacion);
             this.Controls.Add(this.txtCotizacionEuro);
@@ -328,6 +346,7 @@ namespace Ejercicio_23
             this.Name = "Conversor";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Conversor";
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -362,6 +381,7 @@ namespace Ejercicio_23
         private System.Windows.Forms.Button btnLockCotizacion;
         private System.Windows.Forms.Label lblCotizacion;
         private System.Windows.Forms.ImageList imageList;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
 

@@ -35,6 +35,7 @@ namespace Moneda
         {
             return Dolar.cotizRespectoDolar;
         }
+
         public static void SetCotizacion(double cotizacion)
         {
             Dolar.cotizRespectoDolar = cotizacion;
