@@ -42,23 +42,22 @@ namespace Biblioteca
         {
             return p.codigoDeBarra;
         }
-
+        
         public static bool operator ==(Producto p1, Producto p2) 
         {
-            if (p1.marca == p2.marca && p1.codigoDeBarra == p2.codigoDeBarra)
+
+            if (!(p1 is null || p2 is null))
             {
-                return true;
+                return (p1.marca == p2.marca && p1.codigoDeBarra == p2.codigoDeBarra);
             }
-            else
-            {
-                return false;
-            }
+            return false;
         }
 
         public static bool operator !=(Producto p1, Producto p2)
         {
             return !(p1 == p2);
         }
+        
 
         public static bool operator ==(Producto p1, string cadena)
         {
