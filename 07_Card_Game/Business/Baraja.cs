@@ -8,7 +8,7 @@ namespace Business
 {
     public class Baraja
     {
-        Carta[] barajaEspañola = new Carta[48];
+        public Carta[] mazo = new Carta[48];
 
         public Baraja() 
         {
@@ -18,7 +18,7 @@ namespace Business
                 for (int j = 1; j <= 12; j++)
                 {
                     newCarta = new Carta((Carta.Valor)j, (Carta.Palo)i);
-                    barajaEspañola[(i * 12) + j - 1] = newCarta;
+                    mazo[(i * 12) + j - 1] = newCarta;
                 }
             }
         }
@@ -27,11 +27,58 @@ namespace Business
         {
             StringBuilder sb = new StringBuilder();
 
-            foreach (Carta carta in b.barajaEspañola)
+            foreach (Carta carta in b.mazo)
             {
                 sb.AppendLine($"{carta.ObtenerNombre()}");
             }
             return sb.ToString();
+        }
+
+        private bool ValidarArrayConElementos(Baraja b) 
+        {
+            foreach (Carta carta in b.mazo)
+            {
+                if (carta is null) 
+                {
+                    return false;
+                }
+            }
+            return true;
+        }
+
+        public static Carta RetornarUltimaCarta(Baraja b) 
+        {
+            Carta ultimaCarta = null;
+            if (b.ValidarArrayConElementos(b))
+            {
+                ultimaCarta = b.mazo[b.mazo.Length - 1];
+                Array.Resize(ref b.mazo, b.mazo.Length - 1);
+            }
+            return ultimaCarta;
+        }
+
+        public void AgregarCarta(Carta c)
+        {
+            if (mazo.Length < 48)
+            {
+                Array.Resize(ref mazo, mazo.Length + 1);
+                mazo[mazo.Length - 1] = c;
+            }
+        }
+
+        public Baraja MezclarBaraja(Baraja b) 
+        {
+            int az;
+            Carta tmp;
+            Random rdm = new Random();
+            for (int i = b.mazo.Length -1; i > 1; i--)
+            {
+                az = rdm.Next(0,i);
+                tmp = b.mazo[az];
+                b.mazo[az] = b.mazo[i];
+                b.mazo[i] = tmp;
+            }
+            return b;
         }
     }
 }
