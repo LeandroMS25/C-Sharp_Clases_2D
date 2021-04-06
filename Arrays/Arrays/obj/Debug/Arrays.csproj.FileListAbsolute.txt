@@ -1,0 +1,7 @@
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Arrays\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Arrays\Arrays\obj\Debug\Arrays.pdb
