@@ -8,3 +8,13 @@ C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\07_
 C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\07_Card_Game\Presentation\obj\Debug\Presentation.Console.csproj.CopyComplete
 C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\07_Card_Game\Presentation\obj\Debug\Presentation.exe
 C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\07_Card_Game\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\07_Card_Game\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\07_Card_Game\Presentation\bin\Debug\Presentation.exe
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\07_Card_Game\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\07_Card_Game\Presentation\bin\Debug\Business.dll
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\07_Card_Game\Presentation\bin\Debug\Business.pdb
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\07_Card_Game\Presentation\obj\Debug\Presentation.Console.csprojAssemblyReference.cache
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\07_Card_Game\Presentation\obj\Debug\Presentation.Console.csproj.CoreCompileInputs.cache
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\07_Card_Game\Presentation\obj\Debug\Presentation.Console.csproj.CopyComplete
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\07_Card_Game\Presentation\obj\Debug\Presentation.exe
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\07_Card_Game\Presentation\obj\Debug\Presentation.pdb
