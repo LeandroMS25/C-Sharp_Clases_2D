@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralTelefonica", "CentralTelefonica\CentralTelefonica.csproj", "{9F3DD941-84A4-4C10-8BE6-86E013F4CDD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralitaHerencia", "CentralitaHerencia\CentralitaHerencia.csproj", "{743B0246-3CB8-49E7-85E7-6F09202F94C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F3DD941-84A4-4C10-8BE6-86E013F4CDD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F3DD941-84A4-4C10-8BE6-86E013F4CDD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F3DD941-84A4-4C10-8BE6-86E013F4CDD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F3DD941-84A4-4C10-8BE6-86E013F4CDD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{743B0246-3CB8-49E7-85E7-6F09202F94C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{743B0246-3CB8-49E7-85E7-6F09202F94C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{743B0246-3CB8-49E7-85E7-6F09202F94C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{743B0246-3CB8-49E7-85E7-6F09202F94C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73CB9807-7CA9-409C-A11D-658D0323BC4E}
+	EndGlobalSection
+EndGlobal
