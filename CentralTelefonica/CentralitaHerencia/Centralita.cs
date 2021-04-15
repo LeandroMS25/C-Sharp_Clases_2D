@@ -64,8 +64,7 @@ namespace CentralitaHerencia
                     {
                         if (llamada is Local) 
                         {
-                            Local local = (Local)llamada;
-                            valorRecaudado = valorRecaudado + local.CostoLlamada;
+                            valorRecaudado += ((Local)llamada).CostoLlamada;
                         }
                     }
                     break;
@@ -74,8 +73,7 @@ namespace CentralitaHerencia
                     {
                         if (llamada is Provincial)
                         {
-                            Provincial provincial = (Provincial)llamada;
-                            valorRecaudado = valorRecaudado + provincial.CostoLlamada;
+                            valorRecaudado += ((Provincial)llamada).CostoLlamada;
                         }
                     }
                     break;
@@ -84,13 +82,11 @@ namespace CentralitaHerencia
                     {
                         if (llamada is Local)
                         {
-                            Local local = (Local)llamada;
-                            valorRecaudado = valorRecaudado + local.CostoLlamada;
+                            valorRecaudado += ((Local)llamada).CostoLlamada;
                         }
-                        else if(llamada is Provincial)
+                        else if (llamada is Provincial)
                         {
-                            Provincial provincial = (Provincial)llamada;
-                            valorRecaudado = valorRecaudado + provincial.CostoLlamada;
+                            valorRecaudado += ((Provincial)llamada).CostoLlamada;
                         }
                     }
                     break;
@@ -117,7 +113,7 @@ namespace CentralitaHerencia
 
         public void OrdenarLlamadas() 
         {
-            // Chequear
+            this.listaDeLlamadas.Sort(Llamada.OrdenarPorDuracion);
         }
     }
 }

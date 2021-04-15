@@ -1,0 +1,10 @@
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 39\Ejercicio_39\bin\Debug\Ejercicio_39.exe.config
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 39\Ejercicio_39\bin\Debug\Ejercicio_39.exe
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 39\Ejercicio_39\bin\Debug\Ejercicio_39.pdb
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 39\Ejercicio_39\bin\Debug\Biblioteca.dll
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 39\Ejercicio_39\bin\Debug\Biblioteca.pdb
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 39\Ejercicio_39\obj\Debug\Ejercicio_39.csprojAssemblyReference.cache
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 39\Ejercicio_39\obj\Debug\Ejercicio_39.csproj.CoreCompileInputs.cache
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 39\Ejercicio_39\obj\Debug\Ejercicio_39.csproj.CopyComplete
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 39\Ejercicio_39\obj\Debug\Ejercicio_39.exe
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\Ejercicio 39\Ejercicio_39\obj\Debug\Ejercicio_39.pdb
