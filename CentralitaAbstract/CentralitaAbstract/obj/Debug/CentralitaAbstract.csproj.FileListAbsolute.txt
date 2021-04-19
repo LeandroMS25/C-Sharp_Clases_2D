@@ -1,0 +1,10 @@
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\CentralitaAbstract\CentralitaAbstract\bin\Debug\CentralitaAbstract.exe.config
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\CentralitaAbstract\CentralitaAbstract\bin\Debug\CentralitaAbstract.exe
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\CentralitaAbstract\CentralitaAbstract\bin\Debug\CentralitaAbstract.pdb
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\CentralitaAbstract\CentralitaAbstract\bin\Debug\CentralitaHerencia.dll
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\CentralitaAbstract\CentralitaAbstract\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\CentralitaAbstract\CentralitaAbstract\obj\Debug\CentralitaAbstract.csprojAssemblyReference.cache
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\CentralitaAbstract\CentralitaAbstract\obj\Debug\CentralitaAbstract.csproj.CoreCompileInputs.cache
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\CentralitaAbstract\CentralitaAbstract\obj\Debug\CentralitaAbstract.csproj.CopyComplete
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\CentralitaAbstract\CentralitaAbstract\obj\Debug\CentralitaAbstract.exe
+C:\Users\Creditia\Desktop\Labo 2\C-_Clases_2D\CentralitaAbstract\CentralitaAbstract\obj\Debug\CentralitaAbstract.pdb
