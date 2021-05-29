@@ -1,0 +1,6 @@
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\CalculadoraDeString\CalculadoraDeString\bin\Debug\CalculadoraDeString.dll
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\CalculadoraDeString\CalculadoraDeString\bin\Debug\CalculadoraDeString.pdb
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\CalculadoraDeString\CalculadoraDeString\obj\Debug\CalculadoraDeString.csprojAssemblyReference.cache
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\CalculadoraDeString\CalculadoraDeString\obj\Debug\CalculadoraDeString.csproj.CoreCompileInputs.cache
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\CalculadoraDeString\CalculadoraDeString\obj\Debug\CalculadoraDeString.dll
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\CalculadoraDeString\CalculadoraDeString\obj\Debug\CalculadoraDeString.pdb

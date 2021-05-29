@@ -1,0 +1,6 @@
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\CalculadoraDeFormas\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.dll
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\CalculadoraDeFormas\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\CalculadoraDeFormas\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csprojAssemblyReference.cache
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\CalculadoraDeFormas\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csproj.CoreCompileInputs.cache
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\CalculadoraDeFormas\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.dll
+C:\Users\leito\OneDrive\Escritorio\Laboratorio y Programacion 2\C-_Clases_2D\CalculadoraDeFormas\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.pdb

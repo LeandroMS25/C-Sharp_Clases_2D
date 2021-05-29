@@ -37,7 +37,7 @@ namespace Abstract
 
         public string NoVirtual() 
         {
-            return "Metodo no virtual de la clase Animal"   ;
+            return "Metodo no virtual de la clase Animal";
         }
     }
 }
